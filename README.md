@@ -1,0 +1,2 @@
+# najieadmin-rabbitmq
+rabbitmq的主题模式topic与springboot的整合开发
